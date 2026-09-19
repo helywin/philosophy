@@ -1,0 +1,106 @@
+{
+  "首页.md": {
+    "expandedKeys": []
+  },
+  "迁移说明.md": {
+    "expandedKeys": [
+      "item-1-0"
+    ],
+    "scroll": 14.987655074508101
+  },
+  "使用指南.md": {
+    "expandedKeys": [
+      "item-1-0"
+    ],
+    "scroll": 0
+  },
+  "研究工作台.md": {
+    "expandedKeys": [
+      "item-1-0"
+    ],
+    "scroll": 9.519155590304926
+  },
+  "笔记/问题.md": {
+    "expandedKeys": []
+  },
+  "模板/概念笔记.md": {
+    "expandedKeys": []
+  },
+  "模板/论证分析.md": {
+    "expandedKeys": []
+  },
+  "模板/原典精读.md": {
+    "expandedKeys": [
+      "item-1-0"
+    ],
+    "scroll": 11.257142857142856
+  },
+  "模板/阅读日记.md": {
+    "expandedKeys": [
+      "item-1-0"
+    ]
+  },
+  "笔记/《分析篇》.md": {
+    "expandedKeys": []
+  },
+  "笔记/《解释篇》.md": {
+    "expandedKeys": []
+  },
+  "笔记/《论题篇》.md": {
+    "expandedKeys": []
+  },
+  "笔记/阿多诺.md": {
+    "expandedKeys": []
+  },
+  "笔记/巴黎马克思主义.md": {
+    "expandedKeys": []
+  },
+  "笔记/阿尔都塞.md": {
+    "expandedKeys": []
+  },
+  "笔记/纯粹理性批判.md": {
+    "expandedKeys": [],
+    "cursor": {
+      "from": {
+        "line": 1,
+        "ch": 0
+      },
+      "to": {
+        "line": 1,
+        "ch": 0
+      }
+    }
+  },
+  "笔记/先验感性论.md": {
+    "expandedKeys": []
+  },
+  "笔记/先验要素论.md": {
+    "expandedKeys": []
+  },
+  "笔记/感性.md": {
+    "expandedKeys": []
+  },
+  "笔记/contents.md": {
+    "expandedKeys": []
+  },
+  "笔记/目录.md": {
+    "expandedKeys": []
+  },
+  "目录.md": {
+    "cursor": {
+      "from": {
+        "line": 21,
+        "ch": 0
+      },
+      "to": {
+        "line": 21,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "笔记/空间.md": {
+    "expandedKeys": [],
+    "scroll": 0
+  }
+}
