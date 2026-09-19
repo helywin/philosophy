@@ -12,7 +12,7 @@
 ## 插件
 
 本机已安装 Dataview、PDF++、Citations 和 Quiet Outline，并写入启用列表。
-主题选用 Minimal，配合 Minimal Theme Settings 的 Flexoki 配色；正文使用思源宋体风格的 Noto Serif SC，字号 18，行距 1.8。
+主题选用 Minimal，配合 Minimal Theme Settings 的 Flexoki 配色；正文使用 Noto Sans SC 黑体，字号 18，行距 1.8。
 首次打开若 Obsidian 显示信任提示，请确认这是自己的笔记库并允许已安装插件运行。
 
 插件与主题代码不进入 Git，版本、下载来源和 SHA-256 保存在 `.obsidian/plugins.lock.json` 与 `.obsidian/themes.lock.json`。
