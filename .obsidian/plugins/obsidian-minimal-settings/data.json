@@ -1,0 +1,20 @@
+{
+  "lightStyle": "minimal-light",
+  "darkStyle": "minimal-dark",
+  "lightScheme": "minimal-flexoki-light",
+  "darkScheme": "minimal-flexoki-dark",
+  "lineHeight": 1.8,
+  "lineWidth": 40,
+  "lineWidthWide": 50,
+  "maxWidth": 88,
+  "textNormal": 18,
+  "textSmall": 14,
+  "colorfulHeadings": false,
+  "colorfulFrame": false,
+  "colorfulActiveStates": false,
+  "focusMode": false,
+  "underlineInternal": true,
+  "underlineExternal": true,
+  "readableLineLength": true,
+  "lineNumbers": true
+}

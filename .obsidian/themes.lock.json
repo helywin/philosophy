@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Minimal",
+    "repo": "kepano/obsidian-minimal",
+    "version": "9.0.2",
+    "minAppVersion": "1.13.0",
+    "release": "https://github.com/kepano/obsidian-minimal/releases/tag/9.0.2",
+    "files": [
+      {
+        "name": "manifest.json",
+        "url": "https://github.com/kepano/obsidian-minimal/releases/download/9.0.2/manifest.json",
+        "sha256": "22ca939102aa2eae4ad57b4d77933572bc055d4fee096b9bc00fd8e890680536"
+      },
+      {
+        "name": "theme.css",
+        "url": "https://github.com/kepano/obsidian-minimal/releases/download/9.0.2/theme.css",
+        "sha256": "8974d84fa5c6e6c82879eab5b0411bd57c7c868ea8beeab69d28b994657f7a5f"
+      }
+    ]
+  }
+]

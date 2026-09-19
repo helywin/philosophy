@@ -1,0 +1,8 @@
+{
+  "cssTheme": "Minimal",
+  "theme": "system",
+  "baseFontSize": 18,
+  "interfaceFontFamily": "Noto Sans SC, Microsoft YaHei UI",
+  "textFontFamily": "Noto Serif SC, Microsoft YaHei",
+  "monospaceFontFamily": "Cascadia Code, Consolas"
+}

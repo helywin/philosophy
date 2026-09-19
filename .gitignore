@@ -1,0 +1,16 @@
+.obsidian/workspace*.json
+.obsidian/cache/
+.obsidian/plugins/*/main.js
+.obsidian/plugins/*/styles.css
+.obsidian/plugins/*/manifest.json
+.obsidian/plugins/*/*.download
+.obsidian/plugins/*/data.json
+!.obsidian/plugins/dataview/data.json
+!.obsidian/plugins/obsidian-minimal-settings/data.json
+.obsidian/themes/*/theme.css
+.obsidian/themes/*/manifest.json
+.obsidian/themes/*/*.download
+.obsidian/plugins/*/dummy-cache/
+.trash/
+.DS_Store
+Thumbs.db
