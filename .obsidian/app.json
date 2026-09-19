@@ -6,6 +6,7 @@
   "newFileFolderPath": "笔记",
   "attachmentFolderPath": "附件",
   "showLineNumber": true,
+  "showInlineTitle": false,
   "readableLineLength": true,
   "strictLineBreaks": false,
   "livePreview": true,
