@@ -2,3 +2,4 @@
 *.md text eol=lf
 *.json text eol=lf
 *.ps1 text eol=crlf
+附件/康德/*.txt -text
